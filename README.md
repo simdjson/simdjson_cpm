@@ -10,4 +10,6 @@ cmake -B build
 cmake --build build
 ```
 
+It will build two binaries, one of which will use the static simdjson library.
+
 Please refer to the main [simdjson](https://github.com/simdjson/simdjson) project for further documentation.
