@@ -1,5 +1,5 @@
 # Simple demo of simdjson as a CMake dependency using CPM
-
+[![VS17-CI](https://github.com/simdjson/simdjson_cpm/actions/workflows/visual_studio.yml/badge.svg)](https://github.com/simdjson/simdjson_cpm/actions/workflows/visual_studio.yml)
 
 This repository is meant to serve as an example of how to use [simdjson](https://github.com/simdjson/simdjson) as a `CMake` dependency using CPM.
 
