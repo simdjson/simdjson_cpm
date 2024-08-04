@@ -1,6 +1,6 @@
 name: VS17-CI
 
-'on':
+on:
   - push
   - pull_request
 
